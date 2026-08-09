@@ -11,8 +11,11 @@ server/.env
 npm-debug.log*
 
 # Generated files
-server/generated/
-server/uploads/
+server/uploads/*
+!server/uploads/.gitkeep
+
+server/generated/*
+!server/generated/.gitkeep
 
 # OS files
 .DS_Store
