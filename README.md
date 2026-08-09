@@ -520,11 +520,6 @@ Contributions are welcome! Feel free to:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
----
-
-## 📬 Contact
-
-For questions or feedback, feel free to reach out or open an issue on the [GitHub repository](https://github.com/Arshkhan18/AI-Resume-Analyzer).
 
 ---
 
