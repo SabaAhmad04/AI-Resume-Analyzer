@@ -1,0 +1,22 @@
+# Node modules
+frontend/node_modules/
+server/node_modules/
+
+# Environment files
+frontend/.env
+server/.env
+
+# Logs
+*.log
+npm-debug.log*
+
+# Generated files
+server/generated/
+server/uploads/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Docker
+docker-compose.yml
