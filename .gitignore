@@ -11,9 +11,12 @@ server/.env
 npm-debug.log*
 
 # Generated files
+
+# Uploads
 server/uploads/*
 !server/uploads/.gitkeep
 
+# Generated files
 server/generated/*
 !server/generated/.gitkeep
 
